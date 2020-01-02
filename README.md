@@ -1,4 +1,4 @@
-# Disclamier: this repository is OUTDATED and intended only to provide information to the user. For a REAL USAGE of the code (`git clone`) PLEASE GO TO: **https://github.com/rizac/stream2segment**
+# Disclamier: this repository and its documentation are OUTDATED. If you want to use the program or read about it, PLEASE GO TO: **https://github.com/rizac/stream2segment**
 
 # stream2segment
 
