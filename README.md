@@ -1,3 +1,5 @@
+# Disclamier: this repository is OUTDATED and intended only to provide information to the user. For a REAL USAGE of the code (`git clone`) PLEASE GO TO: **https://github.com/rizac/stream2segment**
+
 # stream2segment
 
 A python project to download, process and visualize event-based seismic waveform segments.
